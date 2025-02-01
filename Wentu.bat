@@ -13,7 +13,7 @@ echo [2] Scan Open Ports (Netstat and Nmap)
 echo [3] Ping a Host
 echo [4] Check Internet Connectivity
 echo [5] Network Sniffer
-echo [6] Disk Space & Memory Usage
+echo [6] Disk Space
 echo [7] IP Lookup / DNS Info (nslookup)
 echo [8] Exit Wentu
 echo ==================================================
